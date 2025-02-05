@@ -31,7 +31,7 @@ This API is designed for research and informational purposes. Please ensure comp
 ## Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/jiji.git
+git clone https://github.com/natnael9402/jiji.git
 cd jiji
 cd car-price-scraper
 ```
