@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the API Server
 ```bash
-uvicorn main:app --reload
+python -m uvicorn main:app --reload
 ```
 The server will start at: **http://127.0.0.1:8000**
 
